@@ -1,3 +1,9 @@
+
+
+# 0/1 Knapsack problem
+# This solution a Dynamic programming "bottom up" approach to the problem. 
+
+
 # inputs
 weights = [1, 2, 3, 4, 5]
 values = [1, 4, 4, 5, 7]
